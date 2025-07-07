@@ -1,0 +1,16 @@
+Copyright © 2025 Gabriela Berger. All rights reserved.
+
+This project, including all ideas, concepts, code, designs, and documentation, was originally invented, developed, and published by Gabriela Berger in 2025.
+
+**License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+You are free to use, copy, modify, and share this project for non-commercial purposes, provided that you:
+
+- Give clear and visible credit to Gabriela Berger as the original creator and inventor.
+- Indicate any changes made to the original work.
+
+**Commercial use, sublicensing, or selling of any part of this project (including derivative works) is strictly prohibited without explicit written permission from the author.**
+
+Any company, startup, or individual wishing to use, develop, or commercialize any part of this project must negotiate a separate license agreement with the author.
+
+For collaboration, research, or licensing inquiries, please contact: gabrielaberger@outlook.de
